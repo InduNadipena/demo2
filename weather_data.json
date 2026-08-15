@@ -1,0 +1,13 @@
+{
+  "city": "Hyderabad",
+  "forecast": [
+    {
+      "day": "Monday",
+      "temperature": 31
+    },
+    {
+      "day": "Tuesday",
+      "temperature": 29
+    }
+  ]
+}
