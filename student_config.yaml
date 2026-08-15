@@ -1,0 +1,8 @@
+student:
+  name: Priya
+  course: Computer Science
+  year: 3
+subjects:
+  - Java
+  - Database Systems
+  - Operating Systems

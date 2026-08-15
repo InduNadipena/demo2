@@ -1,0 +1,7 @@
+### List users
+GET https://example.com/api/users
+Accept: application/json
+
+### Find one user
+GET https://example.com/api/users/101
+Accept: application/json
